@@ -222,13 +222,6 @@ body {
     flex: 1 1 40%;
 }
 
-patch/content/secondary
-.education {
-    flex: 1 1 60%;
-    margin-right: 50px;
-}
-
-feature/body
 .additional-info__education {
     margin-bottom: 20px;
 }
